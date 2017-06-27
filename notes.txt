@@ -2,3 +2,5 @@ computers
 o.s.
 programming
 git
+commit
+push
